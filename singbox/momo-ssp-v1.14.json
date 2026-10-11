@@ -449,7 +449,7 @@
         "domain_suffix": [
           "opencode.ai"
         ],
-        "outbound": "Google"
+        "outbound": "美国自动"
       },
       {
         "domain_suffix": [
@@ -466,7 +466,7 @@
           "steamgames.com",
           "steamserver.net"
         ],
-        "outbound": "Steam"
+        "outbound": "香港自动"
       },
       {
         "domain_suffix": [
