@@ -780,7 +780,8 @@
     "cache_file": {
       "enabled": true,
       "path": "/etc/sing-box/cache.db",
-      "store_dns": true
+      "store_dns": true,
+      "store_fakeip": true
     },
     "clash_api": {
       "external_controller": "0.0.0.0:9095",
