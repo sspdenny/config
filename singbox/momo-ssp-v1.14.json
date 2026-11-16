@@ -461,7 +461,8 @@
       {
         "domain_suffix": [
           "ps.lomicloud.com",
-          "fxddn.com"
+          "fxddn.com",
+          "115.com"
         ],
         "outbound": "直连"
       },
